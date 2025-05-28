@@ -1,11 +1,3 @@
-////////////////////////////////////////////////////////////////////////
-//
-// file name   : assignment4.c
-// description : Divisible by 5 or not
-// author      : suraj shivaji panmand
-// date        : 12/05/2025
-//
-////////////////////////////////////////////////////////////////////////
 #include<stdio.h>
 
 typedef int  BOOL;
@@ -46,4 +38,4 @@ int main()
         printf("not Divisible by 5");
     }
     return 0;
-}
+}  
