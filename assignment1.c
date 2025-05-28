@@ -1,12 +1,4 @@
-////////////////////////////////////////////////////////////////////////
-//
-// file name   : assignment1.c
-// description :  Divide two number
-// author      : suraj shivaji panmand
-// date        : 12/05/2025
-//
-////////////////////////////////////////////////////////////////////////
-#include<stdio.h>
+ #include<stdio.h>
 
     int Divide(int iNo1, int iNo2)
     {
@@ -31,5 +23,5 @@
         printf("Division is %d",&iRet);
 
         return 0;
-    }
+    }  
 
